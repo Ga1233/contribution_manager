@@ -10,7 +10,6 @@ A web application designed to manage and track contributions, allowing users to 
 - Generate summary reports
 - Real-time validation and responsive UI
 - Role-based access control (e.g., admin, viewer)
-- Export data (CSV or PDF formats)
 - Dashboard with statistics and charts
 
 ## 🛠 Tech Stack
